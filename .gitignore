@@ -1,0 +1,16 @@
+## Ignores log and text files
+analysis_run.log
+local_notes.txt
+
+## Ignores root level outputs directory
+/outputs/
+
+## Ignores R session files
+.Rhistory
+.RData
+
+## Ignores .Rproj.user and common operating-system metadata
+.Rproj.user/
+.DS_Store
+Thumbs.db
+
