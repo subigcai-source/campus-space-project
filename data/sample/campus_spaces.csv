@@ -1,0 +1,13 @@
+space_id,building,space_type,seats,occupied,noise_level
+S101,Building A,Quiet study,24,18,Low
+S102,Building A,Group study,16,13,Medium
+S103,Building B,Computer lab,30,27,Medium
+S104,Building B,Quiet study,20,12,Low
+S105,Building C,Lounge,28,21,High
+S106,Building C,Group study,18,15,Medium
+S107,Building D,Quiet study,32,25,Low
+S108,Building D,Computer lab,26,19,Medium
+S109,Building E,Lounge,22,17,High
+S110,Building E,Group study,20,16,Medium
+S111,Building F,Quiet study,18,11,Low
+S112,Building F,Computer lab,24,20,Medium
